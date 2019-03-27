@@ -1,0 +1,11 @@
+/*JetSlider*/
+
+.jet-slider {
+	&__content-inner {
+		.jet-slider__button-wrapper {
+			.elementor-button {
+				transition: all .5s !important;
+			}
+		}
+	}
+}
